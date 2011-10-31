@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Translations xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customApplications>
+        <label><!-- Project/Issue Management --></label>
+        <name>ProjectIssueManagement</name>
+    </customApplications>
+    <customLabels>
+        <label>ヘルプとトレーニング</label>
+        <name>AdditionalHelpAndTraining</name>
+    </customLabels>
+    <customLabels>
+        <label>Salesforce の使用に関する質問は、加入者であれば Salesforce のアプリケーション内で [ヘルプ＆トレーニング] リンクをクリックして、カスタマサポートに連絡することができます。</label>
+        <name>ForAnswersToQuestions</name>
+    </customLabels>
+    <customLabels>
+        <label>Project and Issue Management について</label>
+        <name>ProjectAndIssueManagement</name>
+    </customLabels>
+    <customLabels>
+        <label>Project and Issue Management は、チームメンバーの生活がより複雑にならずに、自分のプロジェクトを軌道に乗せて維持するのに役立ちます。
+このアプリケーションは、プロジェクトの状況と目標とする完了日など、それらの重要な側面を、管理するための機能を提供します。</label>
+        <name>ProjectAndIssueManagementHelps</name>
+    </customLabels>
+    <customLabels>
+        <label>個々の問題点と取引先責任者のタブがキー情報を保持し簡単にアクセスすることができます。
+あなたのチームは、問題が発生した時、優先順位をつけ、そして必要に応じてその状態を更新し、それらを記録することができます。
+組み込みレポートでは、プロジェクトの未解決の問題、プロジェクトの局面、および多くの他のカテゴリーを参照してみましょう。</label>
+        <name>SeparateIssuesAndContactsTabs</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- The AppExchange --></label>
+        <name>TheAppExchange</name>
+    </customLabels>
+    <customLabels>
+        <label>AppExchangeは、世界初のオンデマンドアプリケーション共有サービスです。
+それが提供する構築済みのアプリケーションとたくさんのコンポーネントは、salesforce.comの顧客、開発者、およびパートナーによって作成されています。</label>
+        <name>TheAppExchangeIsTheWorlds</name>
+    </customLabels>
+    <customLabels>
+        <label>AppExchange上のアプリケーションの幅広さ ― CRMやその他多くのビジネスアプリケーションを含む ― 発表者の想像力とオンデマンドのコミュニティのみが制限されます。</label>
+        <name>TheBreadthOfApplicationsOnTheAppExchange</name>
+    </customLabels>
+    <customLabels>
+        <label>お使いの環境でこのアプリケーションを使用する方法の詳細については、お使いのSalesforce管理者に連絡してください。</label>
+        <name>ToLearnMoreAboutUsing</name>
+    </customLabels>
+    <customLabels>
+        <label>AppExchangeを使用して、簡単に、使用中のsalesforce.comに新しいアプリケーションを追加し、既存のオンデマンドアプリケーションと並行して実行し、そして組織の固有のニーズに合わせてカスタマイズすることができます。</label>
+        <name>UsingTheAppExchangeOrganizations</name>
+    </customLabels>
+    <customLabels>
+        <label>AppExchangeのためのプロジェクトおよび問題管理で、組織は、優先順位をつけ、資材調達の管理とリソースの割り当てを行うシンプルなフレームワークを持ちます。</label>
+        <name>WithProjectAndIssue</name>
+    </customLabels>
+    <customLabels>
+        <label>これらのアプリで、ユーザは、管理費から購買の追跡にモニター募集にすべてを行うことができます。
+企業は、シングルクリックで、salesforce.comのアカウントにこれらのアプリケーションを、参照、テスト、インストールができます。</label>
+        <name>WithTheseApps</name>
+    </customLabels>
+    <customTabs>
+        <label>Project/Issue Management について</label>
+        <name>About_Project_Issue_Management</name>
+    </customTabs>
+</Translations>
